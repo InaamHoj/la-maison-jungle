@@ -1,0 +1,17 @@
+.lmj-sales {
+  color: red;
+  font-style: bold;
+}
+
+.Plants-lists {
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.Plants-div {
+  padding: 80px;
+  border: 20px;
+}
